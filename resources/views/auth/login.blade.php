@@ -59,36 +59,15 @@
     <div class="row">
       <table class="table table-responsive table-dark">
         <tr>
-          <td class="tb-nim">20170140004</td>
+          <td class="tb-nim">20180140114</td>
           <td class="tb-c"> | </td>
-          <td>Khairun Nisa</td>
+          <td>Mufaddal Al Baqir</td>
         </tr>
         <tr>
-          <td class="tb-nim">20170140013</td>
+          <td class="tb-nim">20180140105</td>
           <td class="tb-c"> | </td>
-          <td>Qodri Aziz</td>
+          <td>Riefkha Ananda Putri</td>
         </tr>
-        <tr>
-          <td class="tb-nim">20170140020</td>
-          <td class="tb-c"> | </td>
-          <td>M. Thoriq Fadlullah</td>
-        </tr>
-        <tr>
-          <td class="tb-nim">20170140025</td>
-          <td class="tb-c"> | </td>
-          <td>Farisan Azizi</td>
-        </tr>
-        <tr>
-          <td class="tb-nim">20170140034</td>
-          <td class="tb-c"> | </td>
-          <td>Galuh Nurvan Saputra</td>
-        </tr>
-        <tr>
-          <td class="tb-nim">20170140037</td>
-          <td class="tb-c"> | </td>
-          <td>Arifia Kasastra R</td>
-        </tr>
-
       </table>
     </div>
   </div>
